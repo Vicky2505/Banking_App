@@ -1,16 +1,31 @@
-# banking
+# 💰 FinTrack – Modern Banking App UI
 
-A new Flutter project.
+A **Flutter-powered** mobile banking app with a clean, intuitive interface and responsive design. Built to deliver a seamless financial management experience.
 
-## Getting Started
+## 🚀 Features:
+- 📊 **Animated Savings Graph with Monthly Insights**
+- 💵 **Total Balance & Transaction Summary Cards**
+- 🧑‍🤝‍🧑 **Horizontal Scrollable Transactions with Status Dots**
+- 🎁 **Token Bonus, Loyalty Points & Financial Breakdown**
+- 🧾 **Interactive Dashboard with Client & Card Sections**
+- 📱 **Fully Responsive UI (Mobile)**
 
-This project is a starting point for a Flutter application.
+## 📷 App Preview:
+![FinTrack App Preview](https://github.com/Vicky2505/Banking_App/blob/main/assets/app_preview.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 📥 Installation & Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow these steps to run the app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# Clone the repository
+git clone https://github.com/Vicky2505/Banking_App.git
+
+# Navigate to the project directory
+cd BankingApp
+
+# Get the dependencies
+flutter pub get
+
+# Run the app
+flutter run
