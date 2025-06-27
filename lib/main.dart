@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: MainPage(),
+      title: 'Banking App',
       debugShowCheckedModeBanner: false,
     );
   }
